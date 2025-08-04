@@ -1,8 +1,0 @@
-resources:
-  - wordpress_secret.yaml
-  - wp_storage_class.yaml
-  - wp_pv.yaml
-  - wp_pvc.yaml
-  - wordpress-deployment.yaml  
-  - hpa.yaml
-  - alb.yaml
